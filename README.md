@@ -1,16 +1,5 @@
+# 專案管理系統 RBAC 練習
+## 說明
+使用Casbin進行RBAC管理，尚未與專案管理系統連接，主要目的為練習Casbin操作及測試新增權限及驗證是否能成功。
 
-<a name="v0.0.2"></a>
-## [v0.0.2](https://bitbucket.org/wisdomfish/hs_apis/compare/v0.0.2..v0.0.1) (2021-10-07)
-
-### Docs
-
-* input change log
-
-### Feat
-
-* create new project
-
-
-<a name="v0.0.1"></a>
-## v0.0.1 (2021-10-07)
-
+備註: 使用Casbin自己會建資料表紀錄權限。
